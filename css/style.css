@@ -4355,6 +4355,7 @@ span:hover {
 }
 
 .services .item-box .icon {
+    text-align: center;
     position: relative;
     width: 80px;
     height: 80px;
